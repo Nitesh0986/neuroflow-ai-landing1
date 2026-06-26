@@ -14,3 +14,30 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# NeuroFlow AI Landing Page
+
+A modern AI SaaS landing page built using React, Vite and Tailwind CSS.
+
+## 🚀 Features
+
+- Modern responsive UI
+- Hero Section
+- Features Section
+- Pricing Plans
+- Testimonials
+- Footer
+- Mobile Responsive Navbar
+- Smooth hover animations
+
+## 🛠 Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Heroicons
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
